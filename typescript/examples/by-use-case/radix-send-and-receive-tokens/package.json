@@ -13,7 +13,7 @@
         "@goat-sdk/core": "0.4.9",
         "@goat-sdk/wallet-radix": "0.2.9",
         "radix-web3.js": "0.3.1",
-        "ai": "4.0.3",
+        "ai": "5.0.52",
         "dotenv": "^16.4.5",
         "zod": "3.23.8"
     }
